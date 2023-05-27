@@ -46,11 +46,11 @@ If the weather is "günesli" (sunny), "Tisört giyiniz" (Wear a T-shirt) is reco
 If none of the specified weather conditions are entered
 
 # star.js 
-> javascript code to create the following shape with stars:
->     *
->    ***
->   *****
->  *******
->   *****
->    ***
->     *
+## javascript code to create the following shape with stars:
+|     *
+|    ***
+|   *****
+|  *******
+|   *****
+|    ***
+|     *
