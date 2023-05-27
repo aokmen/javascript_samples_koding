@@ -47,10 +47,10 @@ If none of the specified weather conditions are entered
 
 # star.js 
 ## javascript code to create the following shape with stars:
-###     *
-###   ***
-###  *****
-### *******
-###  *****
-###    ***
-###    *
+-------*
+------***
+-----*****
+----*******
+-----*****
+------***
+-------*
