@@ -45,12 +45,12 @@ If the weather is "karli" (snowy), "Kislik mont giyiniz" (Wear a winter coat) is
 If the weather is "günesli" (sunny), "Tisört giyiniz" (Wear a T-shirt) is recommended.
 If none of the specified weather conditions are entered
 
-# star.js
-
-     *
-    ***
-   *****
-  *******
-   *****
-    ***
-     *
+# star.js 
+> javascript code to create the following shape with stars:
+>     *
+>    ***
+>   *****
+>  *******
+>   *****
+>    ***
+>     *
