@@ -44,3 +44,13 @@ If the weather is "yagmurlu" (rainy), "Yagmurluk giyiniz" (Wear a raincoat) is r
 If the weather is "karli" (snowy), "Kislik mont giyiniz" (Wear a winter coat) is recommended.
 If the weather is "günesli" (sunny), "Tisört giyiniz" (Wear a T-shirt) is recommended.
 If none of the specified weather conditions are entered
+
+# star.js
+
+     *
+    ***
+   *****
+  *******
+   *****
+    ***
+     *
